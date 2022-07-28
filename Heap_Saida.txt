@@ -1,0 +1,50 @@
+n = 10000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 60324
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 57725
+Elementos ALEATORIOS - Comparações realizadas: 60435
+
+n = 20000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 131498
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 125841
+Elementos ALEATORIOS - Comparações realizadas: 130970
+
+n = 30000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 208165
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 197599
+Elementos ALEATORIOS - Comparações realizadas: 205671
+
+n = 40000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 283348
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 271441
+Elementos ALEATORIOS - Comparações realizadas: 281791
+
+n = 50000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 363647
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 350434
+Elementos ALEATORIOS - Comparações realizadas: 360471
+
+n = 60000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 446302
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 425616
+Elementos ALEATORIOS - Comparações realizadas: 441442
+
+n = 70000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 528494
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 505585
+Elementos ALEATORIOS - Comparações realizadas: 522805
+
+n = 80000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 605948
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 585883
+Elementos ALEATORIOS - Comparações realizadas: 603415
+
+n = 90000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 688552
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 665478
+Elementos ALEATORIOS - Comparações realizadas: 686554
+
+n = 100000
+Elementos ORDENADOS EM ORDEM CRESCENTE - Comparações realizadas: 775612
+Elementos ORDENADOS EM ORDEM DECRESCENTE - Comparações realizadas: 751815
+Elementos ALEATORIOS - Comparações realizadas: 771366
+
